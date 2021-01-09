@@ -19,7 +19,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657502
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685984
 #EXTINF:0,NOVA12
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674053
-#EXTINF:0 KTV
+#EXTINF:0, KTV
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685985
 #EXTINF:0,SONCE
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7875
@@ -27,7 +27,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7875
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674107
 #EXTINF:0, EDO
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657500
-#EXTINF:0 SUTEL
+#EXTINF:0, SUTEL
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12402
 #EXTINF:0,HBO
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657495
@@ -37,7 +37,7 @@ http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17380
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657493
 #EXTINF:0, HBO PREMIERE
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17378
-#EXTINF:0 FOX
+#EXTINF:0, FOX
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17382
 #EXTINF:0, FOX KRIME
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17383
