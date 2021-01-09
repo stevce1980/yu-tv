@@ -11,8 +11,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7897
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7879
 #EXTINF:0,TERA
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657505
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12401
 #EXTINF:0,TV+
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7878
 #EXTINF:0,MTM
@@ -59,8 +57,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657489
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23185
 #EXTINF:0,FILM BOX STARS
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657485
-#EXTINF:0,
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657488
 #EXTINF:0,M FILM
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657497
 #EXTINF:0,M FILM 2
@@ -75,11 +71,11 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13385
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13386
 #EXTINF:0,FOLK KLUB
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657507
-#EXTINF:0,
+#EXTINF:0,FOLK TV MAKEDONIJA
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657511
 #EXTINF:0,BALKAN MUSIK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657508
-#EXTINF:0,
+#EXTINF:0,M
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657510
 #EXTINF:0,KAFANSKA
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657509
@@ -169,7 +165,7 @@ http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17411
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17412
 #EXTINF:0,PINK PLUS
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17413
-#EXTINF:0,
+#EXTINF:0,PINK PREMIUM
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17414
 #EXTINF:0 TV 1000
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17377
